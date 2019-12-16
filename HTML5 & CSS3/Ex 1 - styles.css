@@ -1,0 +1,35 @@
+div{
+    display: inline-block;
+    width: 30%;
+    margin-left:2%;
+    vertical-align: top;
+}
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+ul > li{
+    list-style-type:circle;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+
+#firstrow {
+    color:gray   ;
+}
+#secondrow{
+    color: gray;
+}
+#third{
+    color: gray;
+}
